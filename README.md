@@ -9,6 +9,6 @@ For Global :
 For country wise : 
 ``python3 covid19.py <country-name>``
 
-#Have fun!
+# Have fun!
 
 
