@@ -13,7 +13,7 @@ def headerPart(devName,country):
     if country != 'Global':
         text = 'Country : ' + country
     else:
-        text = ""
+        text = ": Global"
     print(text.center(75), end='\n\n')
     return data
 
